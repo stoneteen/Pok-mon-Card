@@ -2,10 +2,10 @@
 
 
     class Database {
-        private $host = 'db';
-        private $database_name = 'csc226db';
-        private  $username = 'root';
-        private $password = 'my_secret_password';
+        private $host = "db";
+        private $database_name = "csc226db";
+        private $username = "root";
+        private $password = "my_secret_password";
 
         public $conn;
 
@@ -20,4 +20,4 @@
             return $this->conn;
         }
     }  
-?>
+?>loca

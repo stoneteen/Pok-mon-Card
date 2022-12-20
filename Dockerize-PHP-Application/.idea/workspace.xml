@@ -4,27 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7750221e-4315-4872-b0f1-555bff7f2354" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/react-docker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/react-docker/src/components/MyComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-docker/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-docker/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="dc1e04c7-ff2a-44ee-bf70-aff7d6276a12" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/react-docker" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IFL4NpEqmSvxLmyGdTHLacvc4D" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2EjaTAkcWpIvHuIYQNpZhgs1O7J" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/onepeace/Desktop/Dockerize-PHP-Application/frontend/react-docker/src",
+    "last_opened_file_path": "/Users/onepeace/Desktop/123123/Dockerize-PHP-Application",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,34 +45,41 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/frontend/react-docker/src" />
-      <recent name="$PROJECT_DIR$/frontend/react-docker" />
+      <recent name="C:\Users\weiha\csc226\Dockerize-PHP-Application\app\api" />
+      <recent name="C:\Users\weiha\csc226\Dockerize-PHP-Application\app\class" />
+      <recent name="C:\Users\weiha\csc226\Dockerize-PHP-Application\app\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\weiha\csc226\Dockerize-PHP-Application\foundend\react-docker\src" />
+      <recent name="C:\Users\weiha\csc226\Dockerize-PHP-Application\foundend\react-docker" />
+      <recent name="C:\Users\weiha\csc226\Dockerize-PHP-Application\foundend" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7750221e-4315-4872-b0f1-555bff7f2354" name="Changes" comment="" />
-      <created>1669772192183</created>
+      <changelist id="dc1e04c7-ff2a-44ee-bf70-aff7d6276a12" name="Changes" comment="" />
+      <created>1663111453264</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669772192183</updated>
-      <workItem from="1669772193864" duration="1916000" />
+      <updated>1663111453264</updated>
+      <workItem from="1663111456121" duration="2280000" />
+      <workItem from="1665528033756" duration="3471000" />
+      <workItem from="1666132496163" duration="6717000" />
+      <workItem from="1666736338640" duration="3380000" />
+      <workItem from="1667328115817" duration="7577000" />
+      <workItem from="1668560641586" duration="2749000" />
+      <workItem from="1669765845972" duration="8301000" />
+      <workItem from="1670370992831" duration="7765000" />
+      <workItem from="1670977174669" duration="3550000" />
+      <workItem from="1671327491029" duration="16114000" />
+      <workItem from="1671409220512" duration="15072000" />
+      <workItem from="1671496677653" duration="282000" />
+      <workItem from="1671501797645" duration="11626000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
